@@ -1,0 +1,23 @@
+# General Mac files 
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows thumbnail cache files  
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+# R files  
+.RData
+.Ruserdata
+.Rhistory
+.Rapp.history
+.Rproj.user/
+*_cache/
+/cache/
+
+# Python files  
+__pycache__/
+*.py[cod]
+*$py.class
