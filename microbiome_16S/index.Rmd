@@ -14,16 +14,17 @@ biblio-style: apalike
 #csl: chicago-fullnote-bibliography.csl
 ---
 
-# Introduction 
+# Introduction {-}
 
 This book is an attempt to institutionalize some knowledge about processing and analyzing 16S rRNA gene sequencing data. This is in no way a comprehensive resource, but rather a way to collect disparate information from various lab members for usage as either a training or reference resource. 
 
-## What this book includes 
+## What this book includes {-}
 
 So far, this book contains the following chapters: 
 
+**CHECK BACK LATER**  
 
-## What it will include in the future  
+## What it will include in the future  {-}
 
 Some planned content include:   
 

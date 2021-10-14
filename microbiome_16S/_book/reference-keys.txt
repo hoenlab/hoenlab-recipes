@@ -1,4 +1,1 @@
-introduction
-what-this-book-includes
-what-it-will-include-in-the-future
 what-is-16s-rrna-gene-sequencing
